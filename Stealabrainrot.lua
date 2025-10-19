@@ -1,4 +1,4 @@
--- ФИНАЛЬНЫЙ РАБОЧИЙ СКРИПТ ДЛЯ DELTA С БЛОКИРОВКОЙ КНОПОК
+        -- ФИНАЛЬНЫЙ РАБОЧИЙ СКРИПТ ДЛЯ DELTA С БЛОКИРОВКОЙ КНОПОК
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 local PlayerGui = Player:WaitForChild("PlayerGui")
